@@ -1,0 +1,11 @@
+div.popup {
+    width: 100%;
+    position: absolute;
+}
+
+div.popover {
+    width: 100%;
+    padding: 2em;
+    position: relative;
+    overflow: hidden;
+}

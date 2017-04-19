@@ -1,0 +1,2793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="zoos_webmercator">
+  <name>zoos_webmercator</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>zoos_webmercator</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>San Diego Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>San Diego Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>San Diego Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>San Diego, CA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Panda,Giraffe,Gorilla,Hippo,Lion,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>52</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1916</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://zoo.sandiegozoo.org/">http://zoo.sandiegozoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>52</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -117.1598427225177,32.73962086076045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>LA ZOO</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LA ZOO</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>LA ZOO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Los Angeles, CA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Chimp,Elephant,Giraffe,Gorilla,Hippo,Lion,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1966</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.lazoo.org/">http://www.lazoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>20</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -118.3860662027263,34.07595476259256,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>San Francisco Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>San Francisco Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>San Francisco Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>San Francisco, CA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Chimp,Gorilla,Hippo,Lion,Tiger,Zebra</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1929</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.sfzoo.org/">http://www.sfzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>20</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -122.4053542767435,37.63605699065128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Oregon Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Oregon Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Oregon Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Portland, OR</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Tiger,Elephant,Chimp,Giraffe,Hippo,Lion,</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1888</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.oregonzoo.org/">http://www.oregonzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -122.6778483834565,45.44721519383294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Woodland Park Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Woodland Park Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Woodland Park Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Seattle, WA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Lion,Hippo,Giraffe,Zebra,Gorilla,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://www.zoo.org/">https://www.zoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>21</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -122.3031689867261,47.57992361026996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Zoo Boise</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Zoo Boise</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Zoo Boise</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Boise, ID</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Giraffe,Tiger,Lion,Zebra</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1916</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://zooboise.org/">https://zooboise.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>7</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -116.2031028859908,43.60059080482196,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Hogle Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hogle Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Hogle Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Salt Lake City, UT</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Giraffe,Zebra,Elephant,Gorilla</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1931</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://www.hoglezoo.org/">https://www.hoglezoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>17</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -111.8868390324828,40.75500463230052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Phoenix Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Phoenix Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Phoenix Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Phoenix, AZ</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Lion,Elephant,Zebra,Giraffe,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1962</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.phoenixzoo.org/">http://www.phoenixzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>25</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -112.081736409128,33.41768669296466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Denver Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Denver Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Denver Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Denzer, CO</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Hippo,Giraffe,Gorilla,Lion,Tiger,Elephant,Zebra</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1896</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.denverzoo.org/">http://www.denverzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>17</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -105.0144485483277,39.72176055220963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Kansas City Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kansas City Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Kansas City Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Kansas City, MO</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Lion,Zebra,Giraffe,Hippo,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1909</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://www.kansascityzoo.org/">https://www.kansascityzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -94.59575768827682,39.09463211190966,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Dallas Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dallas Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Dallas Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Dallas, TX</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Chimp,Zebra,Lion,Giraffe,Gorilla,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1888</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.dallaszoo.com/">http://www.dallaszoo.com/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -96.80637722154603,32.79535775536341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Houston Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Houston Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Houston Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Houston, TX</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Gorilla,Tiger,Lion,Zebra,Giraffe</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1922</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.houstonzoo.org/">http://www.houstonzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>18</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -95.38029885584957,29.75701965168085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Zoo Atlanta</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Zoo Atlanta</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Zoo Atlanta</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Atlanta, GA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Lion,Zebra,Panda,Giraffe,Gorilla,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1889</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://zooatlanta.org/">https://zooatlanta.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>23</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -84.38998825088207,33.76499029990328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Saint Louis Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Saint Louis Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Saint Louis Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Saint Louis, MO</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Tiger,Lion,Zebra,Hippo,Giraffe</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1904</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://www.stlzoo.org/">https://www.stlzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -90.22740236113297,38.64109266587107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Philadelphia Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Philadelphia Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Philadelphia Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Philadelphia, PA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Tiger,Lion,Zebra,Giraffe,Hippo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1874</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.philadelphiazoo.org/">http://www.philadelphiazoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>23</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -75.12523246840738,39.92149821618269,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Cincinnati Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cincinnati Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Cincinnati Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Cincinnati, OH</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Lion,Hippo,Gorilla,Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1875</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://cincinnatizoo.org/">http://cincinnatizoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>17</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -84.48981373648078,39.0778745921393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>North Carolina Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>North Carolina Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>North Carolina Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Asheboro, NC</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Hippo,Elephant,Giraffe,Zebra,Gorilla,Lion,Chimp</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1976</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.nczoo.org/">http://www.nczoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>15</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -79.73621918415928,35.55047712513845,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Bronx Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bronx Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Bronx Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Bronx, NY</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Tiger,Elephant,Giraffe,Gorilla,Lion,Zebra</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://bronxzoo.com/">https://bronxzoo.com/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>37</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -73.89014621485201,40.84253590073764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Central Park Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Central Park Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Central Park Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>New York, NY</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Panda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1864</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://centralparkzoo.com/">https://centralparkzoo.com/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>18</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -73.97441165159565,40.7680930720492,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Franklin Park Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Franklin Park Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Franklin Park Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Boston, MA</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Lion,Tiger,Zebra,Giraffe,Hippo,Gorilla</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1912</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.zoonewengland.org/visit">http://www.zoonewengland.org/visit</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>20</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -71.06853930176155,42.37293993750836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Smithsonian's National Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Smithsonian's National Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Smithsonian's National Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Washington, DC</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Elephant,Panda,Zebra,Lion,Tiger,Gorilla</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1889</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="https://nationalzoo.si.edu/">https://nationalzoo.si.edu/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -77.05806843768673,38.88933937068369,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Minnesota Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Minnesota Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Minnesota Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Minneapolis, MN</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Tiger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1978</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://mnzoo.org/">http://mnzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>18</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -93.26543600450158,44.9697653777507,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Lincoln Park Zoo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lincoln Park Zoo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Zoo_Name</td>
+
+<td>Lincoln Park Zoo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Chicago, IL</td>
+
+</tr>
+
+<tr>
+
+<td>Animals</td>
+
+<td>Lion,Tiger,Giraffe,Chimp,Zebra,Hippo,Gorilla</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Cost</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Founded</td>
+
+<td>1868</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Website</td>
+
+<td><a target="_blank" href="http://www.lpzoo.org/">http://www.lpzoo.org/</a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+
+        <ExtendedData>
+          <Data name="cost">
+            <displayName>Cost</displayName>
+            <value>0</value>
+          </Data>
+        </ExtendedData>
+
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -87.68220101009,41.81103640549021,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_165d0068_0.png</href></Icon>
+      <scale>0.625000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
