@@ -26,6 +26,12 @@ class ZooApp(TethysAppBase):
         url_maps = (UrlMap(name='home',
                            url='zoo-app',
                            controller='zoo_app.controllers.home'),
+                    UrlMap(name='donate',
+                           url='donate',
+                           controller='zoo_app.controllers.donate'),
+                    UrlMap(name='video',
+                           url='video',
+                           controller='zoo_app.controllers.video'),
         )
 
         return url_maps

@@ -1,0 +1,21 @@
+{% extends "zoo_app/base.html" %}
+{% load tethys_gizmos %}
+
+{% block app_content %}
+<div id="donate-title"> Donate to Animal Conservation </div>
+<p>Here is a link to the WWF Organization Donate Page. Any donations go towards the conservation of animals all around the world.</p>
+
+{% gizmo button single_button %}
+
+{% endblock %}
+
+{% block app_navigation_items %}
+  <li><a href="{% url 'zoo_app:home' %}">Home</a></li>
+  <li class="active"><a href="{% url 'zoo_app:donate' %}">Donate</a></li>
+  <li><a href="{% url 'zoo_app:video' %}">Cute Animal Videos</a></li>
+{% endblock %}
+
+{% block app_actions %}
+  <a href="" class="btn btn-default">Next</a>
+  <a href="" class="btn btn-default">Back</a>
+{% endblock %}
